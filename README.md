@@ -7,4 +7,5 @@ I am currently looking for Full Time opportunities for Spring 2023
 
 - 🔭 Projects
 [Auto-Chess game automator](https://github.com/Michael-Chan1/game-automator)
+
 [Teamfight Tactics](https://github.com/Michael-Chan1/teamfighttactics-placement-predictor)

@@ -9,4 +9,4 @@ I am currently looking for Full Time opportunities for Spring 2023
 
 [Auto-Chess game automator](https://github.com/Michael-Chan1/game-automator-using-digit-classifier) - Automates games using a digit classifier to know the state of the game
 
-[Teamfight Tactics](https://github.com/Michael-Chan1/teamfighttactics-placement-predictor) - Predicts which placement a team will get based on what units a player has
+[Teamfight Tactics Placement Predictor](https://github.com/Michael-Chan1/teamfighttactics-placement-predictor) - Predicts which placement a team will get based on what units a player has
